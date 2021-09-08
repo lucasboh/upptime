@@ -15,9 +15,6 @@ sites:
   - name: Nextcloud
     url: https://nube.lucasboh.com
     maxResponseTime: 7000
-  - name: Test Broken 
-    url: https://nube.lucasbohasdasdasdasd.com
-    maxResponseTime: 7000
   - name: Estudio TFZ
     url: https://estudiotfz.com
     maxResponseTime: 7000
