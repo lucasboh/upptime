@@ -21,8 +21,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.estudioobliquo.com
-  baseUrl: /upptime
+  cname: status.estudioobliquo.com
+  # baseUrl: /upptime
   logoUrl: https://estudioobliquo.com/static/6cb011ed95ee3e854ee4ba4b6ea5136d/1d271/logoColor.webp
   favicon: https://estudioobliquo.com/favicon-32x32.png
   name: Estudio Obliquo Status
