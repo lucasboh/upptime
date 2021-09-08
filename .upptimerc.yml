@@ -5,18 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: Estudio Obliquo
     url: https://estudioobliquo.com
+    maxResponseTime: 7000
   - name: Livieres Guggiari
     url: https://livieresg.com.py
+    maxResponseTime: 7000
   - name: Sunshine Lettering
     url: https://sunshineletteringpy.com
+    maxResponseTime: 7000
   - name: CBVA-APP
-    url: https://admin.bomberosasuncion.org/login 
+    url: https://admin.bomberosasuncion.org/login
+    maxResponseTime: 7000
   - name: Estudio TFZ
     url: https://estudiotfz.com
+    maxResponseTime: 7000
   - name: Allinea Pilates
     url: https://allineapilates.com
+    maxResponseTime: 7000
   - name: Lucas Boh
     url: https://lucasboh.com
+    maxResponseTime: 7000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
