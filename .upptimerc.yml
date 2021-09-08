@@ -3,22 +3,30 @@ owner: lucasboh # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Estudio Obliquo
+    url: https://estudioobliquo.com
+  - name: Livieres Guggiari
+    url: https://livieresg.com.py
+  - name: Sunshine Lettering
+    url: https://sunshinelettering.com
+  - name: CBVA-APP
+    url: https://admin.bomberosasuncion.org/login 
+  - name: Estudio TFZ
+    url: https://estudiotfz.com
+  - name: Allinea Pilates
+    url: https://allineapilates.com
+  - name: Lucas Boh
+    url: https://lucasboh.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.lucasboh.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  # cname: status.estudioobliquo.com
+  baseUrl: /upptime
+  logoUrl: https://estudioobliquo.com/static/6cb011ed95ee3e854ee4ba4b6ea5136d/1d271/logoColor.webp
+  favicon: https://estudioobliquo.com/favicon-32x32.png
+  name: Estudio Obliquo Status
+  theme: dark
   introTitle: "Status"
   introMessage: ""
   navbar:
