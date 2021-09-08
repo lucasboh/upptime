@@ -3,9 +3,6 @@ owner: lucasboh # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Estudio Obliquo
-    url: https://estudioobliquo.com
-    maxResponseTime: 7000
   - name: Livieres Guggiari
     url: https://livieresg.com.py
     maxResponseTime: 7000
@@ -15,11 +12,20 @@ sites:
   - name: CBVA-APP
     url: https://admin.bomberosasuncion.org/login
     maxResponseTime: 7000
+  - name: Nextcloud
+    url: https://nube.lucasboh.com
+    maxResponseTime: 7000
+  - name: Test Broken 
+    url: https://nube.lucasbohasdasdasdasd.com
+    maxResponseTime: 7000
   - name: Estudio TFZ
     url: https://estudiotfz.com
     maxResponseTime: 7000
   - name: Allinea Pilates
     url: https://allineapilates.com
+    maxResponseTime: 7000
+  - name: Estudio Obliquo
+    url: https://estudioobliquo.com
     maxResponseTime: 7000
   - name: Lucas Boh
     url: https://lucasboh.com
@@ -33,12 +39,14 @@ status-website:
   logoUrl: https://estudioobliquo.com/static/6cb011ed95ee3e854ee4ba4b6ea5136d/1d271/logoColor.webp
   favicon: https://estudioobliquo.com/favicon-32x32.png
   name: Estudio Obliquo Status
-  theme: dark
+  theme: ocean
   introTitle: "Status"
   introMessage: ""
   navbar:
-    - title: Status
-      href: /
+    - title: Netlify Status
+      href: https://www.netlifystatus.com/  
+    - title: DO Status
+      href: https://status.digitalocean.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
