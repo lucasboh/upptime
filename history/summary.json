@@ -22,9 +22,9 @@
     "url": "https://sunshineletteringpy.com",
     "icon": "https://favicons.githubusercontent.com/sunshineletteringpy.com",
     "slug": "sunshine-lettering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-11": 0
+    }
   },
   {
     "name": "CBVA-APP",
