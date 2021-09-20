@@ -60,19 +60,19 @@
     "url": "https://nube.lucasboh.com",
     "icon": "https://favicons.githubusercontent.com/nube.lucasboh.com",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 249,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 310,
+    "timeDay": 264,
     "timeWeek": 297,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2021-09-20": 0
+      "2021-09-20": 31
     }
   },
   {
