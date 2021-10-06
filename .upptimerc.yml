@@ -21,6 +21,9 @@ sites:
   - name: Allinea Pilates
     url: https://allineapilates.com
     maxResponseTime: 7000
+  - name: Punto de Fuga
+    url: http://puntodefugapodcast.com
+    maxResponseTime: 7000
   - name: Estudio Obliquo
     url: https://estudioobliquo.com
     maxResponseTime: 7000
