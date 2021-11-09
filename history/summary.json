@@ -4,9 +4,9 @@
     "url": "https://livieresg.com.py",
     "icon": "https://favicons.githubusercontent.com/livieresg.com.py",
     "slug": "livieres-guggiari",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1396,
     "timeYear": 1375,
     "dailyMinutesDown": {
+      "2021-11-09": 0,
       "2021-10-20": 27
     }
   },
