@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.92%",
     "time": 1374,
     "timeDay": 1267,
-    "timeWeek": 1363,
+    "timeWeek": 1350,
     "timeMonth": 1382,
     "timeYear": 1374,
     "dailyMinutesDown": {
@@ -102,9 +102,9 @@
     "url": "https://allineapilates.com",
     "icon": "https://favicons.githubusercontent.com/allineapilates.com",
     "slug": "allinea-pilates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 446,
     "timeMonth": 383,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Punto de Fuga",
@@ -138,9 +140,9 @@
     "url": "https://estudioobliquo.com",
     "icon": "https://favicons.githubusercontent.com/estudioobliquo.com",
     "slug": "estudio-obliquo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +151,9 @@
     "timeWeek": 350,
     "timeMonth": 346,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Lucas Boh",
