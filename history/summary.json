@@ -46,9 +46,9 @@
     "url": "https://admin.bomberosasuncion.org/login",
     "icon": "https://favicons.githubusercontent.com/admin.bomberosasuncion.org",
     "slug": "cbva-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 399,
     "timeMonth": 371,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-19": 0
+    }
   },
   {
     "name": "Nextcloud",
