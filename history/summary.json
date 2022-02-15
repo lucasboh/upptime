@@ -117,9 +117,9 @@
     "url": "https://allineapilates.com",
     "icon": "https://favicons.githubusercontent.com/allineapilates.com",
     "slug": "allinea-pilates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -129,6 +129,7 @@
     "timeMonth": 434,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2021-11-16": 31
     }
   },
@@ -161,9 +162,9 @@
     "url": "https://estudioobliquo.com",
     "icon": "https://favicons.githubusercontent.com/estudioobliquo.com",
     "slug": "estudio-obliquo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -173,6 +174,7 @@
     "timeMonth": 489,
     "timeYear": 412,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2021-11-16": 31
     }
   },
