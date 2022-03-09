@@ -99,18 +99,20 @@
     "url": "https://estudiotfz.com",
     "icon": "https://favicons.githubusercontent.com/estudiotfz.com",
     "slug": "estudio-tfz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 269,
-    "timeWeek": 291,
-    "timeMonth": 324,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 428,
+    "timeDay": 1268,
+    "timeWeek": 538,
+    "timeMonth": 391,
+    "timeYear": 428,
+    "dailyMinutesDown": {
+      "2022-03-09": 1
+    }
   },
   {
     "name": "Allinea Pilates",
@@ -139,11 +141,11 @@
     "icon": "https://favicons.githubusercontent.com/puntodefugapodcast.com",
     "slug": "punto-de-fuga",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 448,
     "timeDay": 212,
     "timeWeek": 438,
@@ -183,17 +185,19 @@
     "url": "https://lucasboh.com",
     "icon": "https://favicons.githubusercontent.com/lucasboh.com",
     "slug": "lucas-boh",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 411,
-    "timeWeek": 329,
-    "timeMonth": 409,
-    "timeYear": 441,
-    "dailyMinutesDown": {}
+    "time": 587,
+    "timeDay": 14351,
+    "timeWeek": 3824,
+    "timeMonth": 1371,
+    "timeYear": 587,
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   }
 ]
