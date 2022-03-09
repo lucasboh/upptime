@@ -99,19 +99,19 @@
     "url": "https://estudiotfz.com",
     "icon": "https://favicons.githubusercontent.com/estudiotfz.com",
     "slug": "estudio-tfz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 1268,
-    "timeWeek": 538,
-    "timeMonth": 391,
-    "timeYear": 428,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 427,
+    "timeDay": 954,
+    "timeWeek": 514,
+    "timeMonth": 388,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2022-03-09": 1
+      "2022-03-09": 25
     }
   },
   {
@@ -185,19 +185,19 @@
     "url": "https://lucasboh.com",
     "icon": "https://favicons.githubusercontent.com/lucasboh.com",
     "slug": "lucas-boh",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 14351,
-    "timeWeek": 3824,
-    "timeMonth": 1371,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 586,
+    "timeDay": 9707,
+    "timeWeek": 3446,
+    "timeMonth": 1339,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 25
     }
   }
 ]
