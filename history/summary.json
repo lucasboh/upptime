@@ -82,18 +82,18 @@
     "icon": "https://favicons.githubusercontent.com/admin.bomberosasuncion.org",
     "slug": "cbva-app",
     "status": "down",
-    "uptime": "92.84%",
+    "uptime": "92.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.57%",
-    "uptimeYear": "92.84%",
+    "uptimeMonth": "30.58%",
+    "uptimeYear": "92.65%",
     "time": 374,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 391,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2022-07-07": 38,
+      "2022-07-07": 909,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
@@ -146,9 +146,9 @@
     "url": "https://estudiotfz.com",
     "icon": "https://favicons.githubusercontent.com/estudiotfz.com",
     "slug": "estudio-tfz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -158,6 +158,7 @@
     "timeMonth": 371,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2022-07-07": 0,
       "2022-06-16": 33,
       "2022-03-09": 25
     }
@@ -243,9 +244,9 @@
     "url": "https://lucasboh.com",
     "icon": "https://favicons.githubusercontent.com/lucasboh.com",
     "slug": "lucas-boh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -255,6 +256,7 @@
     "timeMonth": 528,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2022-07-07": 0,
       "2022-04-04": 32,
       "2022-03-09": 25
     }
