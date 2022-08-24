@@ -9,8 +9,8 @@ sites:
   - name: Sunshine Lettering
     url: https://sunshineletteringpy.com
     maxResponseTime: 7000
-  - name: CBVA-APP
-    url: https://admin.bomberosasuncion.org/login
+  - name: Delfina Zelaschi
+    url: https://delfinazelaschi.com
     maxResponseTime: 7000
   - name: Nextcloud
     url: https://nube.lucasboh.com
