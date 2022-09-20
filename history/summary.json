@@ -42,9 +42,9 @@
     "url": "https://sunshineletteringpy.com",
     "icon": "https://favicons.githubusercontent.com/sunshineletteringpy.com",
     "slug": "sunshine-lettering",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.56%",
@@ -54,6 +54,7 @@
     "timeMonth": 350,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-09-14": 61,
       "2022-08-21": 47,
       "2022-08-12": 54,
@@ -117,12 +118,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 348,
     "timeDay": 381,
     "timeWeek": 358,
     "timeMonth": 333,
-    "timeYear": 349,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2022-04-04": 26
     }
