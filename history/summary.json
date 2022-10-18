@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunshineletteringpy.com.ico",
     "slug": "sunshine-lettering",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
@@ -97,9 +97,9 @@
     "url": "https://delfinazelaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/delfinazelaschi.com.ico",
     "slug": "delfina-zelaschi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 364,
     "timeMonth": 364,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   },
   {
     "name": "Nextcloud",
