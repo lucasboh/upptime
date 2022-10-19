@@ -12,6 +12,12 @@ sites:
   - name: Delfina Zelaschi
     url: https://delfinazelaschi.com
     maxResponseTime: 7000
+  - name: GyL SRL
+    url: https://gylsrl.com.py
+    maxResponseTime: 7000
+  - name: De La Familia M
+    url: https://delafamiliam.com
+    maxResponseTime: 7000
   - name: Nextcloud
     url: https://nube.lucasboh.com
     maxResponseTime: 7000
