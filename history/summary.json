@@ -14,7 +14,7 @@
     "timeDay": 1387,
     "timeWeek": 1204,
     "timeMonth": 1205,
-    "timeYear": 1304,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2022-08-31": 64,
       "2022-08-30": 32,
@@ -45,12 +45,12 @@
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.53%",
     "time": 356,
     "timeDay": 597,
     "timeWeek": 365,
-    "timeMonth": 371,
+    "timeMonth": 374,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2022-10-06": 62,
@@ -116,18 +116,20 @@
     "url": "https://gylsrl.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/gylsrl.com.py.ico",
     "slug": "gy-l-srl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 579,
     "timeDay": 460,
     "timeWeek": 579,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "De La Familia M",
@@ -135,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/delafamiliam.com.ico",
     "slug": "de-la-familia-m",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
     "time": 431,
     "timeDay": 489,
     "timeWeek": 431,
@@ -164,7 +166,7 @@
     "timeDay": 554,
     "timeWeek": 384,
     "timeMonth": 385,
-    "timeYear": 351,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2022-04-04": 26
     }
@@ -206,7 +208,7 @@
     "timeDay": 400,
     "timeWeek": 347,
     "timeMonth": 413,
-    "timeYear": 432,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2022-08-16": 35,
       "2022-08-10": 46,
@@ -232,7 +234,7 @@
     "timeDay": 5977,
     "timeWeek": 4305,
     "timeMonth": 4301,
-    "timeYear": 1341,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2022-10-20": 86,
       "2022-10-19": 33,
@@ -303,7 +305,7 @@
     "timeDay": 242,
     "timeWeek": 395,
     "timeMonth": 495,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2022-07-07": 33,
       "2022-04-04": 32,
