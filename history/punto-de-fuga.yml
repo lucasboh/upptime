@@ -1,7 +1,7 @@
 url: http://puntodefugapodcast.com
-status: up
+status: degraded
 code: 200
-responseTime: 133
-lastUpdated: 2022-10-26T23:19:25.551Z
+responseTime: 10840
+lastUpdated: 2022-10-27T07:37:51.761Z
 startTime: Wed Oct 06 2021 12:46:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
