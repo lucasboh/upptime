@@ -98,10 +98,10 @@
     "url": "https://delfinazelaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/delfinazelaschi.com.ico",
     "slug": "delfina-zelaschi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 369,
@@ -110,6 +110,7 @@
     "timeMonth": 340,
     "timeYear": 369,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-10-18": 53
     }
   },
