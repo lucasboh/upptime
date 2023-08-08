@@ -317,10 +317,10 @@
     "url": "https://livmedia.net",
     "icon": "https://icons.duckduckgo.com/ip3/livmedia.net.ico",
     "slug": "liv-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 795,
@@ -328,6 +328,8 @@
     "timeWeek": 725,
     "timeMonth": 795,
     "timeYear": 795,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 1
+    }
   }
 ]
