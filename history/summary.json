@@ -13,7 +13,7 @@
     "time": 1160,
     "timeDay": 1087,
     "timeWeek": 1255,
-    "timeMonth": 1259,
+    "timeMonth": 1251,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2023-08-10": 22,
@@ -39,7 +39,7 @@
     "time": 357,
     "timeDay": 124,
     "timeWeek": 335,
-    "timeMonth": 349,
+    "timeMonth": 341,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2023-08-20": 34,
@@ -102,7 +102,7 @@
     "time": 409,
     "timeDay": 304,
     "timeWeek": 451,
-    "timeMonth": 463,
+    "timeMonth": 459,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2023-07-20": 22,
@@ -129,7 +129,7 @@
     "time": 360,
     "timeDay": 108,
     "timeWeek": 270,
-    "timeMonth": 335,
+    "timeMonth": 330,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-08-12": 60,
@@ -176,7 +176,7 @@
     "time": 384,
     "timeDay": 380,
     "timeWeek": 376,
-    "timeMonth": 338,
+    "timeMonth": 344,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2022-11-03": 80
@@ -196,7 +196,7 @@
     "time": 373,
     "timeDay": 197,
     "timeWeek": 349,
-    "timeMonth": 294,
+    "timeMonth": 295,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2022-12-13": 34
@@ -207,16 +207,16 @@
     "url": "http://puntodefugapodcast.com",
     "icon": "https://icons.duckduckgo.com/ip3/puntodefugapodcast.com.ico",
     "slug": "punto-de-fuga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "95.85%",
+    "uptimeDay": "95.82%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.10%",
-    "time": 1872,
+    "time": 1874,
     "timeDay": 782,
     "timeWeek": 463,
-    "timeMonth": 1442,
+    "timeMonth": 1472,
     "timeYear": 2268,
     "dailyMinutesDown": {
       "2023-08-24": 60,
@@ -279,7 +279,7 @@
     "time": 345,
     "timeDay": 134,
     "timeWeek": 239,
-    "timeMonth": 290,
+    "timeMonth": 289,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2023-08-21": 241,
@@ -302,7 +302,7 @@
     "time": 438,
     "timeDay": 360,
     "timeWeek": 343,
-    "timeMonth": 368,
+    "timeMonth": 373,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2023-08-20": 33,
@@ -328,7 +328,7 @@
     "time": 587,
     "timeDay": 128,
     "timeWeek": 302,
-    "timeMonth": 587,
+    "timeMonth": 577,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2023-08-08": 24
