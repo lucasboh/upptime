@@ -207,13 +207,13 @@
     "url": "http://puntodefugapodcast.com",
     "icon": "https://icons.duckduckgo.com/ip3/puntodefugapodcast.com.ico",
     "slug": "punto-de-fuga",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "75.30%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "77.81%",
     "uptimeWeek": "92.72%",
     "uptimeMonth": "98.22%",
-    "uptimeYear": "99.04%",
-    "time": 1900,
+    "uptimeYear": "99.06%",
+    "time": 1902,
     "timeDay": 251,
     "timeWeek": 358,
     "timeMonth": 664,
@@ -260,7 +260,7 @@
       "2022-09-26": 311,
       "2022-09-23": 403,
       "2022-09-22": 307,
-      "2022-09-21": 96
+      "2022-09-21": 17
     }
   },
   {
