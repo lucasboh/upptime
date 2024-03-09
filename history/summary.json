@@ -14,7 +14,7 @@
     "timeDay": 1398,
     "timeWeek": 1325,
     "timeMonth": 1303,
-    "timeYear": 1270,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2023-12-26": 37,
       "2023-12-18": 20,
@@ -29,17 +29,16 @@
     "slug": "sunshine-lettering",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.28%",
     "time": 388,
     "timeDay": 870,
     "timeWeek": 441,
     "timeMonth": 374,
-    "timeYear": 384,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-03-08": 4,
       "2024-02-27": 26,
       "2024-02-22": 38,
       "2024-02-20": 62,
@@ -92,7 +91,7 @@
     "timeDay": 650,
     "timeWeek": 517,
     "timeMonth": 508,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2024-01-29": 573,
       "2024-01-28": 1440,
@@ -146,7 +145,7 @@
     "timeDay": 230,
     "timeWeek": 248,
     "timeMonth": 264,
-    "timeYear": 256,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2023-10-27": 27
     }
