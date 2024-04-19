@@ -139,9 +139,9 @@
     "url": "https://allineapilates.com",
     "icon": "https://icons.duckduckgo.com/ip3/allineapilates.com.ico",
     "slug": "allinea-pilates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -151,6 +151,7 @@
     "timeMonth": 220,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2024-04-19": 0,
       "2024-03-16": 36,
       "2023-10-27": 27
     }
