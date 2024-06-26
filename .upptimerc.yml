@@ -9,9 +9,6 @@ sites:
   - name: Sunshine Lettering
     url: https://sunshineletteringpy.com
     maxResponseTime: 7000
-  - name: Delfina Zelaschi
-    url: https://delfinazelaschi.com
-    maxResponseTime: 7000
   - name: Estudio TFZ
     url: https://estudiotfz.com
     maxResponseTime: 7000
