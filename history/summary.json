@@ -79,12 +79,12 @@
     "url": "https://delfinazelaschi.com",
     "icon": "https://icons.duckduckgo.com/ip3/delfinazelaschi.com.ico",
     "slug": "delfina-zelaschi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "40.83%",
-    "uptimeWeek": "52.97%",
+    "uptimeDay": "42.77%",
+    "uptimeWeek": "53.25%",
     "uptimeMonth": "87.34%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.85%",
     "time": 521,
     "timeDay": 522,
     "timeWeek": 747,
@@ -108,8 +108,7 @@
       "2024-01-25": 773,
       "2024-01-10": 33,
       "2023-07-20": 22,
-      "2023-07-17": 26,
-      "2023-06-29": 35
+      "2023-07-17": 26
     }
   },
   {
