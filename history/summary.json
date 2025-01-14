@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.16%",
+    "uptimeYear": "47.15%",
     "time": 399,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-01-14": 1022,
+      "2025-01-14": 1052,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -362,19 +362,19 @@
     "url": "https://livmedia.net",
     "icon": "https://icons.duckduckgo.com/ip3/livmedia.net.ico",
     "slug": "liv-media",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "78.19%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "76.15%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.93%",
     "time": 532,
-    "timeDay": 563,
-    "timeWeek": 602,
-    "timeMonth": 1247,
-    "timeYear": 601,
+    "timeDay": 495,
+    "timeWeek": 567,
+    "timeMonth": 1217,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-01-14": 313
+      "2025-01-14": 343
     }
   }
 ]
