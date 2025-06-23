@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunshineletteringpy.com.ico",
     "slug": "sunshine-lettering",
     "status": "down",
-    "uptime": "73.86%",
+    "uptime": "73.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.67%",
+    "uptimeYear": "3.43%",
     "time": 381,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-06-23": 3,
+      "2025-06-23": 1236,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -478,9 +478,9 @@
     "url": "https://lucasboh.com",
     "icon": "https://icons.duckduckgo.com/ip3/lucasboh.com.ico",
     "slug": "lucas-boh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -490,6 +490,7 @@
     "timeMonth": 424,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2025-06-23": 0,
       "2024-07-07": 60
     }
   }
