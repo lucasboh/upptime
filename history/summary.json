@@ -47,7 +47,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 963,
+      "2025-08-10": 998,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -491,19 +491,19 @@
     "url": "https://lucasboh.com",
     "icon": "https://icons.duckduckgo.com/ip3/lucasboh.com.ico",
     "slug": "lucas-boh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 1648,
-    "timeWeek": 1791,
-    "timeMonth": 1630,
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 537,
+    "timeDay": 1054,
+    "timeWeek": 1624,
+    "timeMonth": 1593,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-08-10": 0,
+      "2025-08-10": 35,
       "2025-06-23": 26
     }
   }
