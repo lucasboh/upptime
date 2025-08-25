@@ -21,6 +21,10 @@ sites:
   - name: Lucas Boh
     url: https://lucasboh.com
     maxResponseTime: 7000
+  - name: Survey Platform App
+    url: https://survey-platform.lucasboh.com/
+  - name: Survey Platform API
+    url: https://survey-platform-admin.lucasboh.com/
 
 
 status-website:
