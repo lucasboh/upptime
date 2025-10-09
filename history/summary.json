@@ -4,18 +4,19 @@
     "url": "https://livieresg.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/livieresg.com.py.ico",
     "slug": "livieres-guggiari",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.41%",
-    "time": 1760,
+    "time": 1761,
     "timeDay": 5529,
     "timeWeek": 4935,
     "timeMonth": 4402,
     "timeYear": 1919,
     "dailyMinutesDown": {
+      "2025-10-09": 1,
       "2025-07-23": 22,
       "2025-07-04": 1142,
       "2025-07-03": 1440,
@@ -35,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunshineletteringpy.com.ico",
     "slug": "sunshine-lettering",
     "status": "down",
-    "uptime": "68.51%",
+    "uptime": "68.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -46,7 +47,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-09": 2,
+      "2025-10-09": 1120,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -418,9 +419,9 @@
     "url": "https://estudiotfz.com",
     "icon": "https://icons.duckduckgo.com/ip3/estudiotfz.com.ico",
     "slug": "estudio-tfz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -429,7 +430,9 @@
     "timeWeek": 466,
     "timeMonth": 322,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-09": 0
+    }
   },
   {
     "name": "Allinea Pilates",
@@ -446,7 +449,7 @@
     "timeDay": 854,
     "timeWeek": 325,
     "timeMonth": 331,
-    "timeYear": 400,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2025-07-22": 25,
       "2025-06-20": 9,
