@@ -37,9 +37,9 @@
     "status": "up",
     "uptime": "66.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "54.77%",
-    "uptimeMonth": "13.98%",
-    "uptimeYear": "1.05%",
+    "uptimeWeek": "55.05%",
+    "uptimeMonth": "14.05%",
+    "uptimeYear": "1.06%",
     "time": 691,
     "timeDay": 401,
     "timeWeek": 691,
@@ -406,8 +406,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
@@ -441,14 +440,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.37%",
+    "uptimeYear": "91.36%",
     "time": 394,
     "timeDay": 179,
     "timeWeek": 223,
     "timeMonth": 186,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-12-05": 1415,
+      "2025-12-06": 2,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -493,9 +493,9 @@
     "slug": "estudio-obliquo",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 386,
     "timeDay": 299,
@@ -503,7 +503,8 @@
     "timeMonth": 659,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-12-05": 44,
+      "2025-12-06": 2,
+      "2025-12-05": 70,
       "2025-10-20": 31,
       "2025-02-27": 29
     }
