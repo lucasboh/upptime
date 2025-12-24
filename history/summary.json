@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunshineletteringpy.com.ico",
     "slug": "sunshine-lettering",
     "status": "down",
-    "uptime": "65.57%",
+    "uptime": "65.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "21.03%",
@@ -46,7 +46,7 @@
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-12-24": 2,
+      "2025-12-24": 1024,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -435,18 +435,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/allineapilates.com.ico",
     "slug": "allinea-pilates",
     "status": "down",
-    "uptime": "96.81%",
+    "uptime": "96.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.43%",
+    "uptimeYear": "86.24%",
     "time": 392,
     "timeDay": 246,
     "timeWeek": 141,
     "timeMonth": 174,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-12-24": 3,
+      "2025-12-24": 1024,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -532,18 +532,19 @@
     "url": "https://lucasboh.com",
     "icon": "https://icons.duckduckgo.com/ip3/lucasboh.com.ico",
     "slug": "lucas-boh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 863,
+    "time": 864,
     "timeDay": 1870,
     "timeWeek": 1580,
     "timeMonth": 1488,
     "timeYear": 997,
     "dailyMinutesDown": {
+      "2025-12-24": 1,
       "2025-10-20": 121,
       "2025-08-10": 35,
       "2025-06-23": 26
@@ -554,10 +555,10 @@
     "url": "https://survey-platform.lucasboh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/survey-platform.lucasboh.com.ico",
     "slug": "survey-platform-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 981,
@@ -565,16 +566,18 @@
     "timeWeek": 909,
     "timeMonth": 981,
     "timeYear": 981,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-24": 1
+    }
   },
   {
     "name": "Survey Platform API",
     "url": "https://survey-platform-admin.lucasboh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/survey-platform-admin.lucasboh.com.ico",
     "slug": "survey-platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -583,6 +586,8 @@
     "timeWeek": 550,
     "timeMonth": 623,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   }
 ]
