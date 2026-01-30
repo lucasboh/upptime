@@ -6,9 +6,6 @@ sites:
   - name: Livieres Guggiari
     url: https://livieresg.com.py
     maxResponseTime: 7000
-  - name: Sunshine Lettering
-    url: https://sunshineletteringpy.com
-    maxResponseTime: 7000
   - name: Estudio TFZ
     url: https://estudiotfz.com
     maxResponseTime: 7000
@@ -22,9 +19,11 @@ sites:
     url: https://lucasboh.com
     maxResponseTime: 7000
   - name: Survey Platform App
-    url: https://survey-platform.lucasboh.com/
-  - name: Survey Platform API
-    url: https://survey-platform-admin.lucasboh.com/
+    url: https://app.resonance-platform.org/
+    maxResponseTime: 7000
+  - name: Survey Platform Strapi
+    url: https://strapi.resonance-platform.org/
+    maxResponseTime: 7000
 
 
 status-website:
