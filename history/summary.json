@@ -237,18 +237,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.resonance-platform.org.ico",
     "slug": "survey-platform-strapi",
     "status": "down",
-    "uptime": "1.86%",
-    "uptimeDay": "1.86%",
-    "uptimeWeek": "1.86%",
-    "uptimeMonth": "1.86%",
-    "uptimeYear": "1.86%",
+    "uptime": "2.52%",
+    "uptimeDay": "2.52%",
+    "uptimeWeek": "2.52%",
+    "uptimeMonth": "2.52%",
+    "uptimeYear": "2.52%",
     "time": 692,
     "timeDay": 692,
     "timeWeek": 692,
     "timeMonth": 692,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2026-01-30": 0
+      "2026-01-30": 1
     }
   }
 ]
